@@ -1,5 +1,7 @@
 # 声纹识别
 
+![GitHub license](https://img.shields.io/github/license/konas122/Voiceprint-recognition?style=flat-square)
+
 ## python第三方库
 
 ```
