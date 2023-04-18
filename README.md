@@ -6,15 +6,15 @@
 ## python第三方库
 
 ```
-python=3.8
-tensorboardX=2.6
-tensorboard=2.11.2
-scipy=1.4.1
-numpy=1.23.5
-librosa=0.9.2
-torch=1.8.1
-torchaudio=0.8.1
-torchvision=0.9.1               
+python==3.8
+tensorboardX==2.6
+tensorboard==2.11.2
+numpy==1.23.5
+librosa==0.9.2
+scikit-learn==1.2.2
+matplotlib==3.6.3
+torch==1.13.1
+torchaudio==0.13.1            
 ```
 
 ​	
