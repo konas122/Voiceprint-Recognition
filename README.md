@@ -18,7 +18,7 @@ torchaudio==0.13.1
 ```
 
 ​	
-## file structure
+## File Structure
 ```
 .
 ├── audio.py
@@ -50,13 +50,13 @@ torchaudio==0.13.1
 ```
 
 ​	
-## train
+## Train
 ​	运行 `train.py` 进行训练。
 
 
 
 ​	
-## dataset
+## Dataset
 ​	这是我所用的数据集：https://pan.baidu.com/s/1_KrjPB27AHPrBa_1AeMQSQ?pwd=0mag	提取码：0mag	
 
 ​	当然，也可以用自己的数据集。只需在 `train.py` 的相同目录下创建 `data` 文件夹，并在 `data` 下创建子文件夹 `train`，然后将自己的训练数据放到 `train` 中。目前，这代码仅支持 `.wav` 格式的训练音频。
