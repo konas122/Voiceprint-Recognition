@@ -37,6 +37,8 @@ torchaudio==0.13.1
 
 We study many useful projects in our codeing process, which includes:
 
+[Ecapa-tdnn: Emphasized channel attention, propagation and aggregation in tdnn based speaker verification.](https://arxiv.org/abs/2005.07143v3)
+
 [clovaai/voxceleb_trainer](https://github.com/clovaai/voxceleb_trainer).
 
 [lawlict/ECAPA-TDNN](https://github.com/lawlict/ECAPA-TDNN/blob/master/ecapa_tdnn.py).
