@@ -50,7 +50,7 @@ torchaudio==0.13.1
 ```
 
 ​	
-## Train
+## Training
 ​	运行 `train.py` 进行训练。
 
 
@@ -61,9 +61,22 @@ torchaudio==0.13.1
 
 ​	当然，也可以用自己的数据集。只需在 `train.py` 的相同目录下创建 `data` 文件夹，并在 `data` 下创建子文件夹 `train`，然后将自己的训练数据放到 `train` 中。目前，这代码仅支持 `.wav` 格式的训练音频。
 
-​	
+​
+## Reference
 
-### Acknowledge
+Original ECAPA-TDNN paper
+```
+@inproceedings{desplanques2020ecapa,
+  title={{ECAPA-TDNN: Emphasized Channel Attention, propagation and aggregation in TDNN based speaker verification}},
+  author={Desplanques, Brecht and Thienpondt, Jenthe and Demuynck, Kris},
+  booktitle={Interspeech 2020},
+  pages={3830--3834},
+  year={2020}
+}
+```
+
+
+## Acknowledge
 
 We study many useful projects in our codeing process, which includes:
 
