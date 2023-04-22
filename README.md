@@ -50,7 +50,10 @@ torchaudio==0.13.1
 
 
 ## Usage
+若要对模型进行微调，先下载本人训练好的模型[param.model](https://github.com/konas122/tdnn-on-directml/releases/download/v1.0/param.model)，并将该模型放在 `fine_tuning.py` 的同一目录下，然后运行 `fine_tuning.py`。
+
 若想从零开始训练出一个模型，则运行 `train.py` 进行训练。
+
 若要对模型进行评估，则运行 `test.py`。
 
 
