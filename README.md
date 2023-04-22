@@ -49,8 +49,9 @@ torchaudio==0.13.1
 ```
 
 
-## Training
-运行 `train.py` 进行训练。
+## Usage
+若想从零开始训练出一个模型，则运行 `train.py` 进行训练。
+若要对模型进行评估，则运行 `test.py`。
 
 
 
