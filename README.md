@@ -24,8 +24,7 @@ torchaudio==0.13.1
 ├── data
 │   ├── dev
 │   ├── test
-│   ├── train
-│   └── transcript.txt
+│   └── train
 ├── eval.py
 ├── fine_tuning.py
 ├── img
