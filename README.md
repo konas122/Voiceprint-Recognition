@@ -91,5 +91,3 @@ We study many useful projects in our codeing process, which includes:
 [TaoRuijie/ECAPA-TDNN](https://github.com/TaoRuijie/ECAPA-TDNN)
 
 Thanks for these authors to open source their code!
-
-未完待续...
