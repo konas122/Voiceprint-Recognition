@@ -30,12 +30,10 @@ torchaudio==0.13.1
 ├── img
 ├── loader.py
 ├── logs
-│   ├── acc
-│   │   ├── test_acc
-│   │   │   └── events.out.tfevents.1681549622.Konas
-│   │   └── train_acc
-│   │       └── events.out.tfevents.1681549622.Konas
-│   └── events.out.tfevents.1681549581.Konas
+│   └── acc
+│       ├── test_acc
+│       │   
+│       └── train_acc         
 ├── loss.py
 ├── models
 │   ├── tdnn.py
